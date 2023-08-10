@@ -9,8 +9,9 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
             4. Identify appropriate use cases for each cloud model
             5. Describe the consumption-based model (OpEx - Cloud computing)
             6. compare cloud pricing models (Pay as you go)
-    - Module 2 [Link]()
+    - Module 2 [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-2)
          - Learning Objectives,
+            1. Describe the benefits of high availability and scalability in the cloud.
     - Module 3 [Link]()
          - Learning Objectives,
 2. LP2 Azure architecture and services
