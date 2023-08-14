@@ -18,6 +18,9 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
     - Module 3
          - Learning Objectives,
          1. Describe the IAAS in the cloud. [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-5)
+         2. Describe platform as a service (PaaS).
+         3. Describe software as a service (SaaS).
+         4. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS). [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-6)
 2. LP2 Azure architecture and services
     - Module 1 [Link]()
          - Learning Objectives,
