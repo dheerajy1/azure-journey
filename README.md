@@ -24,6 +24,8 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
 2. LP2 Azure architecture and services
     - Module 1 [Link]()
          - Learning Objectives,
+         1. Introduction to the core architectural components of Azure.
+         2. What is Microsoft Azure? [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-7)
     - Module 2 [Link]()
          - Learning Objectives,
     - Module 3 [Link]()
