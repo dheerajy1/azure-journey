@@ -1,6 +1,6 @@
 # azure-journey
 My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
-1. LP1 cloud concepts
+1. LP 1 cloud concepts
     - Module 1 [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-1)
         - Learning Objectives,
             1. Define cloud computing
@@ -17,15 +17,21 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
             4. Describe the benefits of manageability in the cloud. [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-4)
     - Module 3
          - Learning Objectives,
-         1. Describe the IAAS in the cloud. [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-5)
-         2. Describe platform as a service (PaaS).
-         3. Describe software as a service (SaaS).
-         4. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS). [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-6)
-2. LP2 Azure architecture and services
+            1. Describe the IAAS in the cloud. [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-5)
+            2. Describe platform as a service (PaaS).
+            3. Describe software as a service (SaaS).
+            4. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS). [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-6)
+2. LP 2 Azure architecture and services
     - Module 1 [Link]()
          - Learning Objectives,
-         1. Introduction to the core architectural components of Azure.
-         2. What is Microsoft Azure? [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-7)
+           - Introduction to the core architectural components of Azure.
+           - What is Microsoft Azure? [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-7)
+           - Get Started with Azure Accounts.
+           - Exercise - Explore the Learn Sandbox.
+           - Describe the physical infrastructure [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-8)
+           1. Describe Azure Region, Region Pairs and Soverign regions.
+           2. Describe Availability Zones.
+           3. Describe Azure Datacenters.
     - Module 2 [Link]()
          - Learning Objectives,
     - Module 3 [Link]()
