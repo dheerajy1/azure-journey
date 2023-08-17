@@ -29,9 +29,15 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
            - Get Started with Azure Accounts.
            - Exercise - Explore the Learn Sandbox.
            - Describe the physical infrastructure [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-8)
-           1. Describe Azure Region, Region Pairs and Soverign regions.
-           2. Describe Availability Zones.
-           3. Describe Azure Datacenters.
+           - Describe Azure Management Infrastructure
+           - Exercise - Create an Azure Resource [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-9)
+           1. Describe Azure Region, Region Pairs and Soverign regions,
+           2. Describe Availability Zones,
+           3. Describe Azure Datacenters,
+           4. Describe Azure Resource Groups & Resources,
+           5. Describe Azure Subscriptions,
+           6. Describe Azure Management Groups,
+           7. Describe the Hierarchy of Azure Management Groups, Subscriptions, Resource groups and Resources.
     - Module 2 [Link]()
          - Learning Objectives,
     - Module 3 [Link]()
