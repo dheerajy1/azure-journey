@@ -40,6 +40,8 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
            7. Describe the Hierarchy of Azure Management Groups, Subscriptions, Resource groups and Resources.
     - Module 2 [Link]()
          - Learning Objectives,
+           - Introduction to Azure Compute Services and Azure Network Services.
+           - Describe Azure Virtual Machines [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-10)
     - Module 3 [Link]()
          - Learning Objectives,
 3. LP3 Azure architecture and services
