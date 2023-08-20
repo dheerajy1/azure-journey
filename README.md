@@ -46,6 +46,8 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
        - Describe Azure Virtual Machines [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-10)
        - Exercise - Create an Azure Virtual Machine
        - Describe Azure Virtual Desktop [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-11)
+       - Describe Azure containers
+       - Describe Azure Functions [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-12)
    - Module 3 [Link]()
      - Learning Objectives,
 3. LP3 Azure architecture and services
