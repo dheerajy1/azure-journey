@@ -50,6 +50,8 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
        - Describe Azure Functions [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-12)
        - Describe Application hosting options
        - Describe Azure Virtual Networking[Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-13)
+       - Exercise - Configure Network Access
+       - Describe Azure Virtual Private Networks [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-14)
    - Module 3 [Link]()
      - Learning Objectives,
 3. LP3 Azure architecture and services
