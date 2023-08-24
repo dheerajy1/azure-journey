@@ -13,18 +13,18 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
        6. compare cloud pricing models (Pay as you go)
    - Module 2
      - Learning Objectives,
-       1. Describe the benefits of high availability and scalability in the cloud. [Day 2 -  [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-2)]
-       2. Describe the benefits of reliability and predictability in the cloud. [Day 3 -  [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-3)]
+       1. Describe the benefits of high availability and scalability in the cloud. [Day 2 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-2)]
+       2. Describe the benefits of reliability and predictability in the cloud. [Day 3 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-3)]
        3. Describe the benefits of security and governance in the cloud.
-       4. Describe the benefits of manageability in the cloud.  [Day 4 -  [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-4)]
+       4. Describe the benefits of manageability in the cloud. [Day 4 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-4)]
    - Module 3
      - Learning Objectives,
-       1. Describe the IAAS in the cloud. [Day 5 -  [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-5)]
+       1. Describe the IAAS in the cloud. [Day 5 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-5)]
        2. Describe platform as a service (PaaS).
        3. Describe software as a service (SaaS).
        4. Identify appropriate use cases for each cloud service (IaaS, PaaS, SaaS). [Day 6 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-6)]
 2. LP 2 Azure architecture and services
-   - Module 1 
+   - Module 1
      - Learning Objectives,
        - Introduction to the core architectural components of Azure.
        - What is Microsoft Azure? [Day 7 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-7)]
@@ -40,7 +40,7 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
        5. Describe Azure Subscriptions,
        6. Describe Azure Management Groups,
        7. Describe the Hierarchy of Azure Management Groups, Subscriptions, Resource groups and Resources.
-   - Module 2 
+   - Module 2
      - Learning Objectives,
        - Introduction to Azure Compute Services and Azure Network Services.
        - Describe Azure Virtual Machines [Day 10 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-10)]
@@ -60,11 +60,16 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
        4. Describe application hosting options, including Vms, containers, azure web apps,
        5. Describe Azure Virtual Networks, including the purpose of Azure virtual networks, azure virtual subnet, peering, azure DNS, VPN gateway and express route,
        6. Describe public and private endpoints
-   - Module 3 [Link]()
+   - Module 3
      - Learning Objectives,
+        - Introduction to Azure Storage Services
+        - Describe Azure Storage accounts [Day 16 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-16)]
+    - Module 4
+      - Learning Objectives,
 3. LP3 Azure architecture and services
-   - Module 1 [Link]() - Learning Objectives,
-   - Module 2 [Link]()
+   - Module 1
+      - Learning Objectives,
+   - Module 2 
      - Learning Objectives,
-   - Module 3 [Link]()
+   - Module 3 
      - Learning Objectives,
