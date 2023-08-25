@@ -64,6 +64,7 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
      - Learning Objectives,
         - Introduction to Azure Storage Services
         - Describe Azure Storage accounts [Day 16 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-16)]
+        - Describe Azure storage redundancy [Day 17 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-17)]
     - Module 4
       - Learning Objectives,
 3. LP3 Azure architecture and services
