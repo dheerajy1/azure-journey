@@ -66,12 +66,14 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
         - Describe Azure Storage accounts [Day 16 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-16)]
         - Describe Azure storage redundancy [Day 17 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-17)]
         - Describe Azure storage services [Day 18 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-18)]
+        - Exercise - create a storage blob,
+        - Identify Azure data migration options, [Day 20 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-20)]
     - Module 4
       - Learning Objectives,
 3. LP3 Azure architecture and services
    - Module 1
       - Learning Objectives,
-   - Module 2 
+   - Module 2
      - Learning Objectives,
-   - Module 3 
+   - Module 3
      - Learning Objectives,
