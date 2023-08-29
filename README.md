@@ -68,6 +68,13 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
         - Describe Azure storage services [Day 18 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-18)]
         - Exercise - create a storage blob,
         - Identify Azure data migration options, [Day 20 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-20)]
+        - Identify Azure File movement options [Day 21 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-21)]
+        1. Describe storage account options and storage types(Blob storage, file storage, disc storage, queue storage, table storage),
+        2. Describe storage tiers (Hot,Cold,Archieve),
+        3. Describe redundancy options (LRS(11 nines), ZRS(12 nines), GRS(16 nines), RA - GRS, GZRS(16 nines), RA-GZRS)
+        4. Compare azure storage services (Blob storage service, file storage service, disc storage service, queue storage service, table storage service),
+        5. Describe migration options, including Azure Migrate, Azure Data box,
+        6. Identify options for moving files, including AzCopy, Azure Storage Explorer, Azure File Sync.
     - Module 4
       - Learning Objectives,
 3. LP3 Azure architecture and services
