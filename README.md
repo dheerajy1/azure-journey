@@ -77,6 +77,8 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
         6. Identify options for moving files, including AzCopy, Azure Storage Explorer, Azure File Sync.
     - Module 4
       - Learning Objectives,
+        - Introduction,
+        - Describe Azure Active Directory Services. [Day 22 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-22)]
 3. LP3 Azure architecture and services
    - Module 1
       - Learning Objectives,
