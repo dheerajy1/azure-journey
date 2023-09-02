@@ -81,6 +81,7 @@ My Azure Journey to Azure AZ 900 exam. Azure fundamentals.
         - Describe Azure Active Directory Services, [Day 22 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-22)]
         - Describe Azure Authentication Methods, [Day 23 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-23)]
         - Describe Azure external identities, [Day 24 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-24)]
+        - Describe Azure Conditional Access, [Day 25 - [Link](https://dheerajy1.hashnode.dev/learning-microsoft-azure-fundamentals-for-az-900-exam-day-25)]
 3. LP3 Azure architecture and services
    - Module 1
       - Learning Objectives,
